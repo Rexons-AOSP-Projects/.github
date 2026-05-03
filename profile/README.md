@@ -26,21 +26,6 @@
 
 <div align="center">
 
-<a href="https://sourceforge.net/p/rexonsarchive/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SOURCEFORGE-white?style=for-the-badge&logo=sourceforge&logoColor=black">
-    <source media="(prefers-color-scheme: light)" srcset="https://sourceforge.net/sflogo.php?type=17&group_id=3962733">
-    <img src="https://sourceforge.net/sflogo.php?type=17&group_id=3962733" alt="Download on SourceForge"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<a href="https://sourceforge.net/projects/rexonsarchive/files/latest/download">
-  <img src="https://a.fsdn.com/con/app/sf-download-button" alt="Download Latest"/>
-</a>
-
-<br/><br/>
 
 ![Total Downloads](https://img.shields.io/sourceforge/dt/rexonsarchive.svg?label=Total%20Downloads&style=flat-square&color=brightgreen)
 ![Daily](https://img.shields.io/sourceforge/dd/rexonsarchive.svg?label=Today&style=flat-square&color=blue)
