@@ -22,11 +22,10 @@
 [![GitHub Org](https://img.shields.io/badge/GitHub-Rexons--AOSP--Projects-424242?style=for-the-badge&logo=github)](https://github.com/Rexons-AOSP-Projects)
 [![SourceForge](https://img.shields.io/badge/SourceForge-rexonsarchive-FF6600?style=for-the-badge&logo=sourceforge&logoColor=white)](https://sourceforge.net/p/rexonsarchive/)
 
-
+<br><br>
+Good bye the great topaz community for this amazing opportunity. Now it's time to leave here. ❤️
 </div>
 
 
 
-<center>
-Good bye the great topaz community for this amazing opportunity. Now it's time to leave here. ❤️
-</center>
+
