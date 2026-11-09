@@ -27,5 +27,6 @@
 
 
 
-
+<center>
 Good bye the great topaz community for this amazing opportunity. Now it's time to leave here. ❤️
+</center>
